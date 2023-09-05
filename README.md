@@ -77,7 +77,7 @@ To get a local copy up and running, follow these steps.
 
 ### Prerequisites
 
-1. Git
+1. GitFlow
 2. A Web Browser with developer tools that supports HTML5 and CSS.
 
 ### Setup
