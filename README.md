@@ -4,7 +4,7 @@
   <img src="cat-black-face.png" alt="logo" width="140"  height="auto" />
   <br/>
 
-  <h3><b>Feature-Setup-project</b></h3>
+  <h3><b>Feature-Hit-the-API</b></h3>
 
 </div>
 
@@ -28,9 +28,11 @@
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 Feature-Setup-project <a name="about-project"></a>
+# 📖 Feature-Hit the API. <a name="about-project"></a>
 
-Leaderboard: setup project. In this activity i will set up a JavaScript project for the Leaderboard list app, using webpack and ES6 features, notably modules. I should develop a first working version of the app following a wireframe, but without styling - just focus on functionality. The goal here is to master all of the tools and best practices learned about in previous steps to use them in all Microverse projects and most likely in my future job as well.
+Leaderboard: Hit the API. In this activity i will create a new game with the name of my choice by using the API. Make sure that i saved the ID of my game that will be returned by API. Implement the "Refresh" button that will get all scores for a game. From the API (receiving data from the API and parsing the JSON). Implement the form "Submit" button that will save a score for a game created by my (sending data to the API).
+Use arrow functions instead of the function keyword.
+Use async and await JavaScript features to consume the API. No styling is required.
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -58,13 +60,13 @@ Leaderboard: setup project. In this activity i will set up a JavaScript project 
 ### Key Features <a name="key-features"></a>
 
 
-- **Follow a correct Gitflow**
-- **Comply with linters**
-- **DOM events with Javascript**
-- **Javascript events**
-- **Receive and send data from/to Leaderboard API**
-- **Use webpack to bundle JavaScript**
-- **Use ES6 modules to write modular JavaScript**
+- **Create a new game with the name of my choice by using the API.**
+- **Make sure that i saved the ID of my game that will be returned by API.**
+- **Implement the "Refresh" button that will get all scores for a game from  the API (receiving data from the API and parsing the JSON).**
+- **Implement the form "Submit" button that will save a score for a game (sending data to the API).**
+- **Use arrow functions instead of the function keyword.**
+- **Use async and await JavaScript features to consume the API.**
+- **No styling is required.**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 

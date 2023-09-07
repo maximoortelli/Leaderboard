@@ -29,6 +29,9 @@ h1 {
   display: flex;
   flex-direction: column;
   align-items: center;
+  width: 50vw;
+  margin-bottom: 1vh;
+  margin-left: 10%;
 }
 
 .score h4 {
@@ -76,8 +79,7 @@ h1 {
   flex-direction: column;
 }
 
-.name,
-.score {
+.name {
   width: 50vw;
   margin-bottom: 1vh;
   margin-left: 10%;
@@ -91,7 +93,8 @@ h1 {
 @media screen and (min-width: 768px) {
   body {
     display: grid;
-    grid-template-columns: 1fr 1fr; /* Divide el contenedor en dos columnas de igual ancho */
+    grid-template-columns: 50% 50%;
+    grid-template-rows: 20vh auto;
   }
 
   h1 {
@@ -112,7 +115,7 @@ h1 {
   }
 
   .group div:nth-child(2) div:nth-child(even) {
-    width: 94%;
+    width: 96.5%;
     margin-left: 0;
     height: 4vh;
     align-items: center;
@@ -127,10 +130,6 @@ h1 {
 
   .score {
     grid-area: 2/2/3/3;
-    font-size: 20px;
-    width: 105%;
-    margin-left: 0;
-    height: 4vh;
   }
 
   .table {
@@ -144,7 +143,13 @@ h1 {
 
   .theusers h5 {
     font-size: 20px;
-    width: 30%;
+    width: 60%;
+  }
+
+  div .player {
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
   }
 
   .theusers span {
@@ -156,9 +161,14 @@ h1 {
     font-size: 38px;
   }
 
+  input.score {
+    width: 80%;
+    margin-left: 0;
+  }
+
   .name {
     font-size: 20px;
-    width: 105%;
+    width: 80%;
     margin-left: 0;
     height: 4vh;
     margin-bottom: 3vh;
