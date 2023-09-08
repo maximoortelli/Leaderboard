@@ -4,7 +4,7 @@
   <img src="cat-black-face.png" alt="logo" width="140"  height="auto" />
   <br/>
 
-  <h3><b>Feature-Hit-the-API</b></h3>
+  <h3><b>Feature-Final touches</b></h3>
 
 </div>
 
@@ -28,11 +28,12 @@
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 Feature-Hit the API. <a name="about-project"></a>
+# 📖 Feature-Final touches. <a name="about-project"></a>
 
-Leaderboard: Hit the API. In this activity i will create a new game with the name of my choice by using the API. Make sure that i saved the ID of my game that will be returned by API. Implement the "Refresh" button that will get all scores for a game. From the API (receiving data from the API and parsing the JSON). Implement the form "Submit" button that will save a score for a game created by my (sending data to the API).
-Use arrow functions instead of the function keyword.
-Use async and await JavaScript features to consume the API. No styling is required.
+Leaderboard:Final touches. In this activity you will finalize the Leaderboard list app, adding the styles needed to make it look great. At this point i should have a fully working app that uses only basic styles to make the layout workMake,i you should improve the look and feel of the application, adding the styles of my choice. I keep the general layout of the wireframe, this is the only mandatory requirement.
+Now you should improve the look and feel of the application, adding the styles of your choice.
+Please keep the general layout of the wireframe, this is the only mandatory requirement.
+You can use plain CSS or any CSS framework, i decide.
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -60,13 +61,14 @@ Use async and await JavaScript features to consume the API. No styling is requir
 ### Key Features <a name="key-features"></a>
 
 
-- **Create a new game with the name of my choice by using the API.**
+- **I should improve the look and feel of the application, adding the styles of my choice.**
 - **Make sure that i saved the ID of my game that will be returned by API.**
 - **Implement the "Refresh" button that will get all scores for a game from  the API (receiving data from the API and parsing the JSON).**
 - **Implement the form "Submit" button that will save a score for a game (sending data to the API).**
 - **Use arrow functions instead of the function keyword.**
 - **Use async and await JavaScript features to consume the API.**
-- **No styling is required.**
+- **keep the general layout of the wireframe, this is the only mandatory requirement.**
+- **I can use plain CSS or any CSS framework, it's up to you.**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
