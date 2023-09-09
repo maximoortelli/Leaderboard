@@ -19,6 +19,8 @@
 - [💻 Getting Started](#getting-started)
   - [Setup](#setup)
   - [Prerequisites](#prerequisites)
+  - [Install](#install)
+  - [Usage](#Usage)
 - [👥 Authors](#authors)
 - [🔭 Future Features](#future-features)
 - [🤝 Contributing](#contributing)
@@ -98,6 +100,23 @@ In order to run this project you need:
 ``` $ git clone https://github.com/maximoortelli/Leaderboard.git ```
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+### Install
+
+Install this project with:
+
+```bash
+ npm install
+```
+
+### Usage
+
+To run the project, execute the following command:
+
+```bash
+ npm run start
+```
+
 
 <!-- AUTHORS -->
 
